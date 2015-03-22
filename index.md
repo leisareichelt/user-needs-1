@@ -7,9 +7,6 @@ layout: default
   <h1>All maps</h1>
 </header>
 
-{% for maps in site.data.map %}
-<ul>
-  <li><a href="/map/">{{ map.name }}</a></li>
-</ul>
-
+{% for mapname in site.data.map.name %}
+  Name: {{  mapname }}
 {% endfor %}
