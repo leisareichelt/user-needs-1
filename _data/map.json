@@ -1,0 +1,493 @@
+{
+  "name": "Getting work and being in work",
+  "tasks": [
+    {
+      "name": "I’m unemployed and trying to find work",
+      "subtasks": [
+        {
+          "name": "What kind of job could I do? (skills, interests, pay, location)",
+          "needs": [
+            {
+              "1": "I need to what locations are feasible for me to consider for work?",
+              "2": "What kind of work will support my mental wellbeing (for people with depression, anxiety etc.)"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I need to make sure that getting a job is financially viable for me",
+          "needs": [
+            {
+              "1": "I need to understand how much money I will take home from a new job",
+              "2": "I need to understand what this will mean for my benefits entitlements (how much money I will have each week/fortnight/month)",
+              "3": "I need to ensure I can afford to live (including any childcare and other costs required if working) once I have a job",
+              "4": "I need to transition from ESA to JSA"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I’m searching for a job that suits my requirements",
+          "needs": [
+            {
+              "1": "I need job that suits my skills and experience",
+              "2": "I need a job in a location that is feasible for me to travel to",
+              "3": "I need a job that matches the hours I’m able to work",
+              "4": "I need a job that meets my financial requirements"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I’m trying to make myself more employable",
+          "needs": [
+            {
+              "1": "I’m considering further training and education to make me more employable",
+              "2": "I’m considering volunteering to make me more employable"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I’m applying for and trying to get a job",
+      "subtasks": [
+        {
+          "name": "I’m applying for jobs",
+          "needs": [
+            {
+              "1": "I need to create a CV and/or portfolio",
+              "2": "I’m trying to write cover letters that will help me to get a job",
+              "3": "I’m filling in job application forms",
+              "4": "I’m keeping track of all the applications I’ve made"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I’m interviewing and trying out for jobs",
+          "needs": [
+            {
+              "1": "I’m preparing for an interview",
+              "2": "I’ve had an interview that seemed unfair",
+              "3": "I’ve been asked to do a trial shift, I want to know what is reasonable for an employer to request",
+              "4": "I’m preparing to do a trial shift"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I am being not successful in getting a job",
+          "needs": [
+            {
+              "1": "I’m dealing with not getting the job I really wanted",
+              "2": "I’m dealing with not getting a job after applying for loads of them"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I’ve been offered a job and I need to negotiate pay and terms",
+          "needs": [
+            {
+              "1": "I’m anxious about negotiating the best pay I can get for my job",
+              "2": "I don’t know what I’m legally entitled to",
+              "3": "I don’t know what I can ask for",
+              "4": "I don’t know what is industry standard rates/terms",
+              "5": "I want to negotiate a package that will give me the best financial outcome"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I’m starting a new job",
+      "subtasks": [
+        {
+          "name": "I’m dealing with contracts and administration related to starting a new job",
+          "needs": [
+            {
+              "1": "I have to sign a contract for my job and need help to make sense of it",
+              "2": "I have to provide information to my new employer before I start work",
+              "3": "I have to prove who that I am who I say I am to my new employer",
+              "4": "Does my tax code change because I have a new job?",
+              "5": "How do I confirm that I am on the right tax code now?",
+              "6": "What benefits or entitlements do I have as a result of my new job? (includes both tax related and benefits related)",
+              "7": "How do I ensure that I am claiming the benefits I am entitled to and nothing I am not entitled to so that I have the most money to live on but incur a penalty later."
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I need to organise my life around my new job",
+          "needs": [
+            {
+              "1": "I need to plan how I will travel to and from work",
+              "2": "I need to organise childcare that works logistically with my new job"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I’m anxious about starting my new job",
+          "needs": [
+            {
+              "1": "I’m nervous about meeting lots of new people that I’ll be working with",
+              "2": "I’m anxious that I won’t be able to do my job well",
+              "3": "I’m anxious about understanding the technology in my new job",
+              "4": "I’m anxious that I won’t be able to do everything I need to do in the time allowed."
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I’m having problems at work",
+      "subtasks": [
+        {
+          "name": "I’m having trouble managing my workload",
+          "needs": [
+            {
+              "1": "I’m struggling to get a good work/life balance",
+              "2": "I’m having trouble managing deadlines"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "My workplace and work practices are not safe",
+          "needs": [
+            {
+              "1": "I’m being asked to work in an environment that is not safe and I don’t know what to do",
+              "2": "I’m being asked to work in a way that is not safe and I don’t know what to do"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I’m having trouble with a colleague",
+          "needs": [
+            {
+              "1": "I’m being harassed or bullied by a colleague"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I’m not being treated fairly at work",
+          "needs": [
+            {
+              "1": "I’m being treated less well because of my age/gender/race/religion etc. (workplace discrimination)",
+              "2": "I’m not being paid what I’m entitled to"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I’m having trouble with my work hours",
+          "needs": [
+            {
+              "1": "It is difficult for me to plan my life and know what money I’ll have to live on because my work hours (and pay) are always changing."
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I’m being disciplined",
+          "needs": [
+            {
+              "1": "I’m being disciplined because of performance at work, what are my rights and what could happen?"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Taking Leave from work",
+      "subtasks": [
+        {
+          "name": "What leave am I entitled to?",
+          "needs": [
+            {
+              "1": "I need to know what leave I am entitled to for vacation",
+              "2": "I need to know what other leave I am entitled to (eg bereavement, sickness etc)"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I’m anxious about asking for leave",
+          "needs": [
+            {
+              "1": "need 1",
+              "2": "need 2"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I’m anxious about returning from leave",
+          "needs": [
+            {
+              "1": "need 1",
+              "2": "need 2"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Learning and development",
+      "subtasks": [
+        {
+          "name": "Maximising job satisfaction",
+          "needs": [
+            {
+              "1": "need 1",
+              "2": "need 2"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "Getting extra training",
+          "needs": [
+            {
+              "1": "need 1",
+              "2": "need 2"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "Getting a promotion, extra duties",
+          "needs": [
+            {
+              "1": "need 1",
+              "2": "need 2"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "Negotiating a pay rise",
+          "needs": [
+            {
+              "1": "need 1",
+              "2": "need 2"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "Managing (annual) performance reviews",
+          "needs": [
+            {
+              "1": "need 1",
+              "2": "need 2"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I’m leaving my job",
+      "subtasks": [
+        {
+          "name": "I’ve decided to leave my job",
+          "needs": [
+            {
+              "1": "What do I need to tell my current employer and when?",
+              "2": "I need to hand in my notice but don’t know when and how best to do it",
+              "3": "I want to ask for reference, how best to do this and do I have any rights?",
+              "4": "I need to update my CV/portfolio",
+              "5": "I need to understand what I’m entitled to if I’m no longer working"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "I’ve been made redundant",
+          "needs": [
+            {
+              "1": "I need to know what my rights are when I’m made redundant?",
+              "2": "I need to find out what I’m entitled to when I’m made redundant?",
+              "3": "I think I’ve been unfairly made redundant, what can I do?"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "Being dismissed",
+          "needs": [
+            {
+              "1": "I need to know what my rights are when I’m dismissed",
+              "2": "I need to know what I’m entitled to when I’m dismissed"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        },
+        {
+          "name": "Retiring",
+          "needs": [
+            {
+              "1": "I’m planning to retire (link to a whole other map)"
+            }
+          ],
+          "features": [
+            {
+              "1": "feature 1",
+              "2": "feature 2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
