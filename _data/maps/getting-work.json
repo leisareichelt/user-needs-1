@@ -12,8 +12,8 @@
           ],
           "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         },
@@ -27,8 +27,8 @@
           ],
           "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         },
@@ -41,8 +41,10 @@
             "I need a job that meets my financial requirements"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         },
         {
@@ -53,8 +55,8 @@
           ],
           "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         }
@@ -73,8 +75,8 @@
           ],
           "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         },
@@ -88,8 +90,8 @@
           ],
           "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         },
@@ -101,8 +103,8 @@
           ],
           "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         },
@@ -117,8 +119,8 @@
           ],
           "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         }
@@ -140,8 +142,8 @@
           ],
           "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         },
@@ -153,8 +155,8 @@
           ],
           "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         },
@@ -168,8 +170,8 @@
           ],
          "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         }
@@ -186,8 +188,8 @@
           ],
           "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         },
@@ -199,8 +201,8 @@
           ],
           "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         },
@@ -211,8 +213,8 @@
           ],
           "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         },
@@ -224,8 +226,8 @@
           ],
           "features": [
             {
-              "feature 1": "www.linkone.com",
-              "feature 2": "www.linktwo.com"
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
             }
           ]
         },
@@ -235,8 +237,10 @@
             "It is difficult for me to plan my life and know what money I’ll have to live on because my work hours (and pay) are always changing."
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         },
         {
@@ -245,8 +249,10 @@
             "I’m being disciplined because of performance at work, what are my rights and what could happen?"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         }
       ]
@@ -261,8 +267,10 @@
             "I need to know what other leave I am entitled to (eg bereavement, sickness etc)"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         },
         {
@@ -272,8 +280,10 @@
             "need 2"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         },
         {
@@ -283,8 +293,10 @@
             "need 2"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         }
       ]
@@ -299,8 +311,10 @@
             "need 2"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         },
         {
@@ -310,8 +324,10 @@
             "need 2"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         },
         {
@@ -321,8 +337,10 @@
             "need 2"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         },
         {
@@ -332,8 +350,10 @@
             "need 2"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         },
         {
@@ -343,8 +363,10 @@
             "need 2"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         }
       ]
@@ -362,8 +384,10 @@
             "I need to understand what I’m entitled to if I’m no longer working"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         },
         {
@@ -374,8 +398,10 @@
             "I think I’ve been unfairly made redundant, what can I do?"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         },
         {
@@ -385,8 +411,10 @@
             "I need to know what I’m entitled to when I’m dismissed"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         },
         {
@@ -395,8 +423,10 @@
             "I’m planning to retire (link to a whole other map)"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "http://www.linkone.com",
+              "feature 2": "http://www.linktwo.com"
+            }
           ]
         }
       ]
