@@ -19,7 +19,7 @@ bodyclass: page-index
 {% for map_hash in site.data.maps %}
 {% assign map = map_hash[1] %}
   <li>
-    <a href="/maps/{{ map.name | slugify }}/">
+    <a href="{{ site.baseurl }}/maps/{{ map.name | slugify }}/">
       {{ map.name }}
     </a>
   </li>

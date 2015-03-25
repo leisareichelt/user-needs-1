@@ -8,7 +8,7 @@ bodyclass: page-map
   {% for mapname in site.data.maps.[{{page.data-maps-filename}}].name %}
     <h1>{{  mapname }}</h1>
   {% endfor %}
-  <a href="/">All maps</a>
+  <a href="{{ site.baseurl }}">All maps</a>
 </header>
 
 
@@ -21,7 +21,7 @@ bodyclass: page-map
 
     <ul class="needs">
     {% for need in subtask.needs %}
-      <li><a href="/needs/{{ need | slugify }}/">{{ need }}</a></li>
+      <li><a href="{{ site.baseurl }}/needs/{{ need | slugify }}/">{{ need }}</a></li>
     {% endfor %}
     </ul>
 
