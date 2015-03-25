@@ -1,0 +1,16 @@
+---
+title: need
+layout: default
+---
+
+<header>
+  {% for mapname in site.data.maps.[{{page.data-maps-filename}}].name %}
+    <h4>Map: <a href="/maps/{{  mapname | slugify }}">{{  mapname }}</a></h4>
+  {% endfor %}
+  <a href="/">All maps</a>
+  <h4>{{ page.task }}<br> &mdash; {{ page.subtask }}</h4>
+  <h1>{{ page.title}}</h1>
+</header>
+
+
+{{ content }}
