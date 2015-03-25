@@ -1,0 +1,377 @@
+{
+  "name": "Sample map title",
+  "tasks": [
+    {
+      "name": "I’m unemployed and trying to find work",
+      "subtasks": [
+        {
+          "name": "What kind of job could I do? (skills, interests, pay, location)",
+          "needs": [
+            "I need to know what locations are feasible for me to consider for work?",
+            "What kind of work will support my mental wellbeing (for people with depression, anxiety etc.)"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I need to make sure that getting a job is financially viable for me",
+          "needs": [
+            "I need to understand how much money I will take home from a new job",
+            "I need to understand what this will mean for my benefits entitlements (how much money I will have each week/fortnight/month)",
+            "I need to ensure I can afford to live (including any childcare and other costs required if working) once I have a job",
+            "I need to transition from ESA to JSA"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I’m searching for a job that suits my requirements",
+          "needs": [
+            "I need job that suits my skills and experience",
+            "I need a job in a location that is feasible for me to travel to",
+            "I need a job that matches the hours I’m able to work",
+            "I need a job that meets my financial requirements"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I’m trying to make myself more employable",
+          "needs": [
+            "I’m considering further training and education to make me more employable",
+            "I’m considering volunteering to make me more employable"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I’m applying for and trying to get a job",
+      "subtasks": [
+        {
+          "name": "I’m applying for jobs",
+          "needs": [
+            "I need to create a CV and/or portfolio",
+            "I’m trying to write cover letters that will help me to get a job",
+            "I’m filling in job application forms",
+            "I’m keeping track of all the applications I’ve made"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I’m interviewing and trying out for jobs",
+          "needs": [
+            "I’m preparing for an interview",
+            "I’ve had an interview that seemed unfair",
+            "I’ve been asked to do a trial shift, I want to know what is reasonable for an employer to request",
+            "I’m preparing to do a trial shift"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I am being not successful in getting a job",
+          "needs": [
+            "I’m dealing with not getting the job I really wanted",
+            "I’m dealing with not getting a job after applying for loads of them"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I’ve been offered a job and I need to negotiate pay and terms",
+          "needs": [
+            "I’m anxious about negotiating the best pay I can get for my job",
+            "I don’t know what I’m legally entitled to",
+            "I don’t know what I can ask for",
+            "I don’t know what is industry standard rates/terms",
+            "I want to negotiate a package that will give me the best financial outcome"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I’m starting a new job",
+      "subtasks": [
+        {
+          "name": "I’m dealing with contracts and administration related to starting a new job",
+          "needs": [
+            "I have to sign a contract for my job and need help to make sense of it",
+            "I have to provide information to my new employer before I start work",
+            "I have to prove who that I am who I say I am to my new employer",
+            "Does my tax code change because I have a new job?",
+            "How do I confirm that I am on the right tax code now?",
+            "What benefits or entitlements do I have as a result of my new job? (includes both tax related and benefits related)",
+            "How do I ensure that I am claiming the benefits I am entitled to and nothing I am not entitled to so that I have the most money to live on but incur a penalty later."
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I need to organise my life around my new job",
+          "needs": [
+            "I need to plan how I will travel to and from work",
+            "I need to organise childcare that works logistically with my new job"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I’m anxious about starting my new job",
+          "needs": [
+            "I’m nervous about meeting lots of new people that I’ll be working with",
+            "I’m anxious that I won’t be able to do my job well",
+            "I’m anxious about understanding the technology in my new job",
+            "I’m anxious that I won’t be able to do everything I need to do in the time allowed."
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I’m having problems at work",
+      "subtasks": [
+        {
+          "name": "I’m having trouble managing my workload",
+          "needs": [
+            "I’m struggling to get a good work/life balance",
+            "I’m having trouble managing deadlines"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "My workplace and work practices are not safe",
+          "needs": [
+            "I’m being asked to work in an environment that is not safe and I don’t know what to do",
+            "I’m being asked to work in a way that is not safe and I don’t know what to do"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I’m having trouble with a colleague",
+          "needs": [
+            "I’m being harassed or bullied by a colleague"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I’m not being treated fairly at work",
+          "needs": [
+            "I’m being treated less well because of my age/gender/race/religion etc. (workplace discrimination)",
+            "I’m not being paid what I’m entitled to"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I’m having trouble with my work hours",
+          "needs": [
+            "It is difficult for me to plan my life and know what money I’ll have to live on because my work hours (and pay) are always changing."
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I’m being disciplined",
+          "needs": [
+            "I’m being disciplined because of performance at work, what are my rights and what could happen?"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Taking Leave from work",
+      "subtasks": [
+        {
+          "name": "What leave am I entitled to?",
+          "needs": [
+            "I need to know what leave I am entitled to for vacation",
+            "I need to know what other leave I am entitled to (eg bereavement, sickness etc)"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I’m anxious about asking for leave",
+          "needs": [
+            "need 1",
+            "need 2"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I’m anxious about returning from leave",
+          "needs": [
+            "need 1",
+            "need 2"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Learning and development",
+      "subtasks": [
+        {
+          "name": "Maximising job satisfaction",
+          "needs": [
+            "need 1",
+            "need 2"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "Getting extra training",
+          "needs": [
+            "need 1",
+            "need 2"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "Getting a promotion, extra duties",
+          "needs": [
+            "need 1",
+            "need 2"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "Negotiating a pay rise",
+          "needs": [
+            "need 1",
+            "need 2"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "Managing (annual) performance reviews",
+          "needs": [
+            "need 1",
+            "need 2"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I’m leaving my job",
+      "subtasks": [
+        {
+          "name": "I’ve decided to leave my job",
+          "needs": [
+            "What do I need to tell my current employer and when?",
+            "I need to hand in my notice but don’t know when and how best to do it",
+            "I want to ask for reference, how best to do this and do I have any rights?",
+            "I need to update my CV/portfolio",
+            "I need to understand what I’m entitled to if I’m no longer working"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "I’ve been made redundant",
+          "needs": [
+            "I need to know what my rights are when I’m made redundant?",
+            "I need to find out what I’m entitled to when I’m made redundant?",
+            "I think I’ve been unfairly made redundant, what can I do?"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "Being dismissed",
+          "needs": [
+            "I need to know what my rights are when I’m dismissed",
+            "I need to know what I’m entitled to when I’m dismissed"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        },
+        {
+          "name": "Retiring",
+          "needs": [
+            "I’m planning to retire (link to a whole other map)"
+          ],
+          "features": [
+            "feature 1",
+            "feature 2"
+          ]
+        }
+      ]
+    }
+  ]
+}

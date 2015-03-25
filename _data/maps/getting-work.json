@@ -7,12 +7,14 @@
         {
           "name": "What kind of job could I do? (skills, interests, pay, location)",
           "needs": [
-            "I need to what locations are feasible for me to consider for work?",
+            "I need to know what locations are feasible for me to consider for work?",
             "What kind of work will support my mental wellbeing (for people with depression, anxiety etc.)"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         },
         {
@@ -24,8 +26,10 @@
             "I need to transition from ESA to JSA"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         },
         {
@@ -48,8 +52,10 @@
             "I’m considering volunteering to make me more employable"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         }
       ]
@@ -66,8 +72,10 @@
             "I’m keeping track of all the applications I’ve made"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         },
         {
@@ -79,8 +87,10 @@
             "I’m preparing to do a trial shift"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         },
         {
@@ -90,8 +100,10 @@
             "I’m dealing with not getting a job after applying for loads of them"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         },
         {
@@ -104,8 +116,10 @@
             "I want to negotiate a package that will give me the best financial outcome"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         }
       ]
@@ -125,8 +139,10 @@
             "How do I ensure that I am claiming the benefits I am entitled to and nothing I am not entitled to so that I have the most money to live on but incur a penalty later."
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         },
         {
@@ -136,8 +152,10 @@
             "I need to organise childcare that works logistically with my new job"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         },
         {
@@ -148,9 +166,11 @@
             "I’m anxious about understanding the technology in my new job",
             "I’m anxious that I won’t be able to do everything I need to do in the time allowed."
           ],
-          "features": [
-            "feature 1",
-            "feature 2"
+         "features": [
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         }
       ]
@@ -165,8 +185,10 @@
             "I’m having trouble managing deadlines"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         },
         {
@@ -176,8 +198,10 @@
             "I’m being asked to work in a way that is not safe and I don’t know what to do"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         },
         {
@@ -186,8 +210,10 @@
             "I’m being harassed or bullied by a colleague"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         },
         {
@@ -197,8 +223,10 @@
             "I’m not being paid what I’m entitled to"
           ],
           "features": [
-            "feature 1",
-            "feature 2"
+            {
+              "feature 1": "www.linkone.com",
+              "feature 2": "www.linktwo.com"
+            }
           ]
         },
         {
