@@ -1,0 +1,40 @@
+---
+title: map
+layout: default
+bodyclass: page-map
+---
+
+<header>
+  {% for mapname in site.data.maps.[{{page.data-maps-filename}}].name %}
+    <h1>{{  mapname }}</h1>
+  {% endfor %}
+  <a href="/">All maps</a>
+</header>
+
+
+{% for task in site.data.maps.[{{page.data-maps-filename}}].tasks %}
+  <h2>{{  task.name }}</h2>
+  {% for subtask in task.subtasks %}
+  <div class="task">
+
+    <h3>{{ subtask.name }}</h3>
+
+    <ul class="needs">
+    {% for need in subtask.needs %}
+      <li><a href="/needs/{{ need | slugify }}/">{{ need }}</a></li>
+    {% endfor %}
+    </ul>
+
+    <h4>Information and transactions</h4>
+
+    <ul class="features">
+    {% for link_hash in subtask.features %}
+      {% for link in link_hash %}
+        <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+      {% endfor %}
+    {% endfor %}
+    </ul>
+
+  </div>
+  {% endfor %}
+{% endfor %}
