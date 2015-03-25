@@ -1,0 +1,29 @@
+---
+collections:
+  maps:
+    output: true
+    permalink: "/maps/:title/"
+  needs:
+    output: true
+    permalink: "/needs/:title/"
+    layout: needs
+    bodyclass: page-needs
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: maps
+    values:
+      layout: map
+      bodyclass: page-map
+  -
+    scope:
+      path: ""
+      type: needs
+    values:
+      layout: need
+      bodyclass: page-need
+
+markdown: rdiscount
+permalink: pretty
