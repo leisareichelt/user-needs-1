@@ -1,0 +1,27 @@
+---
+title: Index
+layout: default
+bodyclass: page-index
+---
+
+<header>
+  <h1>All maps</h1>
+</header>
+
+<h2>Map:</h2>
+<!--
+    - Loop through all the json files in _data/maps/
+    and get the "name".
+    - Use the name to show a list of names
+    - Use the name to create a slug for each map
+-->
+<ul>
+{% for map_hash in site.data.maps %}
+{% assign map = map_hash[1] %}
+  <li>
+    <a href="/maps/{{ map.name | slugify }}/">
+      {{ map.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
