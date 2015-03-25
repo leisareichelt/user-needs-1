@@ -79,7 +79,7 @@ It should look like this:
 
 ### Add a need file
 
-In the `_needs` folder - look the example need; `locations-for-work.md`.
+In the `_needs` folder - look the example need; `sample-need.md`.
 
 You will need to create a need file here for each need. Like before, each map will need a [YAML front matter block](http://jekyllrb.com/docs/frontmatter/) at the top of each file.
 
@@ -89,7 +89,7 @@ It should look like this:
 
 ---
         data-maps-filename: sample-map-name
-        title: I need to know what locations are feasible for me to consider for work?
+        title: Sample need 1
 
 
 ## Publish to Github pages
